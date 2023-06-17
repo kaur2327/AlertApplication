@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlertApplication</string>
+    <string name="Snackbar">Snackbar</string>
+    <string name="AlertDialog">AlertDialog</string>
+    <string name="Custom_Dialog">Custom_Dialog</string>
+    <string name="Title">Title</string>
+    <string name="Enter_your_name">Enter_your_name</string>
+    <string name="Enter_Name">Enter_Name</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Set">Set</string>
+    <string name="Enter_Your_Name">Enter Your Name</string>
+    <string name="HELLO">HELLO</string>
+</resources>
